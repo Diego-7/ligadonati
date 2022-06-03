@@ -4,8 +4,8 @@ import {Link} from 'react-router-dom';
 export default function Redes(){
     return(
         <Container>
-            <Link to='/'>
-            <img src={require("../../assets/logo.jpg")} alt="Imagem de cabeçalho" />
+            <Link to='/kubernets'>
+            <img src={require("../../assets/kubernets.jpg")} alt="Imagem de cabeçalho" />
             <h1>
             <span>
             Kubernets é uma plataforma de código aberto que automatiza as operações dos containers, inicialmente foi criado e desenvolvido por engenheiros do Google, empresa que foi uma das pioneiras no desenvolvimento da tecnologia de containers Linux.
