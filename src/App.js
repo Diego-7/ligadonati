@@ -1,10 +1,17 @@
-import Home from "./pages/Home"
+import Ways from './routes';
+import GlobalStyle from './styles/global';
+import {BrowserRouter as Route} from 'react-router-dom';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
-  <div>
-    <Home />
-  </div>
+  <>
+    <Route>
+      <GlobalStyle />
+      <Navbar />
+      <Ways />
+    </Route>
+  </>
   );
 }
 
