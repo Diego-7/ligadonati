@@ -20,8 +20,15 @@ p{
     margin-bottom: 7px;
 }
 
-span{
-    
-    
+@media screen and (max-width: 1200px){
+
+    height: 100%;
+
+    h1{
+        margin: 5px 5px 5px 5px;
+        text-align: left;
+
+    }
+
 }
 `

@@ -24,4 +24,11 @@ a{
 a:hover{
     background-color: #484F4F;
 }
+
+@media screen and (max-width: 1200px){
+
+a{
+    display: block;
+}
+}
 `

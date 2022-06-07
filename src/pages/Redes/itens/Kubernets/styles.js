@@ -18,6 +18,12 @@ export const Container = styled.div`
 
     }
 
-   
+    @media screen and (max-width: 1200px){
 
+h1{
+    margin: 5px 5px 5px 5px;
+    text-align: left;
+
+}
+    }
 `
