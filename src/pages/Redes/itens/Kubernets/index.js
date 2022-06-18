@@ -1,4 +1,4 @@
-import {Container} from './styles';
+import {Container} from '../../../GlobalStyles/itensStyles';
 
 export default function Kubernets(){
     return(
