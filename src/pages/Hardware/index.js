@@ -12,7 +12,7 @@ export default function Hardware(){
             <img src={require("../../assets/cpu.jpg")} alt="Imagem de cabeçalho" />
             <h1>
             <span>
-            texto...
+            Unidade central de processamento é o componente responsável por realizar todos os cálculos e processos de um computador...
             </span>
             </h1>
             </Link>

@@ -21,7 +21,7 @@ a{
 
     span{
         color: #008FEB;
-          
+        padding: 5px;
     }
 }
 

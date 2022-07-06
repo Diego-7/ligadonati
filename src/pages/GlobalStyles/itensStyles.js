@@ -10,19 +10,20 @@ export const Container = styled.div`
     h1 {
         margin-right: 200px;
         margin-left: 200px;
+        font-family: 'Roboto', sans-serif;
     }
 
     h1 p{
         text-align: center;
         margin: 25px 0px 25px 0px;
-
     }
 
     @media screen and (max-width: 1200px){
 
 h1{
-    margin: 5px 5px 5px 5px;
-    text-align: left;
+    margin: 3px;
+    padding: 5px;
+    text-align: center;
 
 }
     }
