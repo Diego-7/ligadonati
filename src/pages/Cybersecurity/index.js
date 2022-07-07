@@ -23,7 +23,7 @@ export default function Cybersecurity(){
             <img src={require("../../assets/iso27001.png")} alt="Imagem de cabeçalho" />
             <h1>
             <span>
-           texto...
+            ISO 27001 é a norma padrão e referencia para a gestão de segurança da informação, foi originada em um documento publicado em 1992...
             </span>
             </h1>
             </Link>
